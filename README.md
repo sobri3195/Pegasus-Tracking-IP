@@ -3,7 +3,7 @@ Pegasus-Lacak-IP - Tracking IP Address
 ===========================================
 
 
-Created by dr. Muhammad Sobri Maulana, CEH, OSCP
+Created by Muhammad Sobri Maulana
 
    
 Usage: 
